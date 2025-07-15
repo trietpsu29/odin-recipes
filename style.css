@@ -1,0 +1,45 @@
+html{
+    min-height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body
+{
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2353506-4d20-4fe6-8a3f-47d8c90bda35/d4hpgvf-aea7196c-a23e-4bd3-8a9d-0f204e5309a3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMzUzNTA2LTRkMjAtNGZlNi04YTNmLTQ3ZDhjOTBiZGEzNVwvZDRocGd2Zi1hZWE3MTk2Yy1hMjNlLTRiZDMtOGE5ZC0wZjIwNGU1MzA5YTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wN0xNpc0jsqq2ukoYzGB_BI1njrm39io6HBPrH9wys8');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.menu {
+    color:#00eeff;
+    text-shadow: 2px 2px #0b0b06;
+    background-color: #0067b565;
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 28%;
+    font-family: "Brush Script MT", "Courier New",serif;
+    
+}
+
+.recipe{
+    margin-top: -20px;
+}
+
+a
+{
+    color: #551A8B;
+    text-shadow: 1px 1px #ff7373;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: none;
+}
+a:hover {
+    color: azure;
+}
