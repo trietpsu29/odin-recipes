@@ -41,9 +41,8 @@ body
     color: rgb(177, 67, 122);
     background-color: rgba(255, 255, 255, 0.375);
     width: 600px;
-    height: 300px;
     margin: 0 auto;
-    padding:30px 30px 1260px 30px;
+    padding:30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
