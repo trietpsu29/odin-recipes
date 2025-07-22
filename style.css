@@ -1,6 +1,6 @@
-html{
-    margin: 0;
-    box-sizing: border-box;
+html {
+  margin: 0;
+  box-sizing: border-box;
 }
 *,
 *::before,
@@ -8,62 +8,63 @@ html{
   box-sizing: inherit;
 }
 
-body
-{
-    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2353506-4d20-4fe6-8a3f-47d8c90bda35/d4hpgvf-aea7196c-a23e-4bd3-8a9d-0f204e5309a3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMzUzNTA2LTRkMjAtNGZlNi04YTNmLTQ3ZDhjOTBiZGEzNVwvZDRocGd2Zi1hZWE3MTk2Yy1hMjNlLTRiZDMtOGE5ZC0wZjIwNGU1MzA5YTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wN0xNpc0jsqq2ukoYzGB_BI1njrm39io6HBPrH9wys8');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
+body {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2353506-4d20-4fe6-8a3f-47d8c90bda35/d4hpgvf-aea7196c-a23e-4bd3-8a9d-0f204e5309a3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMzUzNTA2LTRkMjAtNGZlNi04YTNmLTQ3ZDhjOTBiZGEzNVwvZDRocGd2Zi1hZWE3MTk2Yy1hMjNlLTRiZDMtOGE5ZC0wZjIwNGU1MzA5YTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wN0xNpc0jsqq2ukoYzGB_BI1njrm39io6HBPrH9wys8");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .food {
-    margin-top: -15px;
+  margin-top: -15px;
 }
 
-.food, .name {
-    text-align: center;
-    font-family: "Brush Script MT", "Courier New",serif;
+.food,
+.name {
+  text-align: center;
+  font-family: "Brush Script MT", "Courier New", serif;
 }
-.name{
-   color:#00eeff; 
-   text-shadow: 2px 2px #0b0b06;
+.name {
+  color: #00eeff;
+  text-shadow: 2px 2px #0b0b06;
 }
 
 .menu {
-    background-color: rgba(255, 255, 255, 0.375);
-    width: 200px;
-    margin: 0 auto;
-    border-radius: 28%; 
+  background-color: rgba(255, 255, 255, 0.375);
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 28%;
 }
 
 .recipe_content {
-    color: rgb(177, 67, 122);
-    background-color: rgba(255, 255, 255, 0.375);
-    width: 600px;
-    margin: 0 auto;
-    padding:30px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(177, 67, 122);
+  background-color: rgba(255, 255, 255, 0.375);
+  width: 600px;
+  margin: 0 auto;
+  padding: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.recipe{
-    margin-top: -20px;
-    text-align: center;
+.recipe {
+  margin-top: -20px;
+  padding-right: 42px;
+  text-align: center;
+  list-style: none;
 }
 
-a
-{
-    color: rgb(177, 67, 122);
-    text-shadow: 1px 1px #ff7373;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-decoration: none;
+a {
+  color: rgb(177, 67, 122);
+  text-shadow: 1px 1px #ff7373;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-decoration: none;
 }
 a:hover {
-    color: azure;
+  color: azure;
 }
 
 img {
-    margin :auto;
-    display: block;
-    border-radius: 3%
+  margin: auto;
+  display: block;
+  border-radius: 3%;
 }
