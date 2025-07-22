@@ -2,6 +2,7 @@
 
 This is the first project from [The Odin Project](https://github.com/TheOdinProject) curriculum — a very basic website that links to a few simple recipes.
 
+## ✨ Preview
 ![Homepage](images/demo.PNG)
 
 ## 🛠️ Skills Learned
@@ -50,9 +51,7 @@ This is the first project from [The Odin Project](https://github.com/TheOdinProj
 
 - [DeviantArt - UNDERSEA TROPICS by Aim4Beauty](https://www.deviantart.com/aim4beauty/art/UNDERSEA-TROPICS-271606443)
 
----
-
-## ⚠️ Disclaimer
+### Disclaimer
 
 All rights to these images and recipes belong to their original creators.  
 This project is created for **educational and non-commercial purposes only.**
